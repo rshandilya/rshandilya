@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rshandilya
-- 👀 I’m interested in Machine Learning, Web Development using Python, Rust
-- 🌱 I’m currently learning Rust.
+- 👀 I’m interested in Machine Learning, Web Development using Python, Rust, Javascript
+- 🌱 I’m currently learning Mojo.
 - 💞️ I’m looking to collaborate on Web Development and Machine Learning.
 - 📫 How to reach me prof.rshandilya@gmail.com
 
